@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Tamar 👋
 
-<!--
-**tzisman/tzisman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer with embedded systems knowledge, who specialized in hardware verification at the KamaTech bootcamp in collaboration with Google.
 
-Here are some ideas to get you started:
+## A Bit About Me 🌱
+I enjoy thinking deeply, noticing the small details, picking things up quickly, and teaching myself new things, especially when they're challenging 💪
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🔬 **Hardware Verification** - UVM and SystemVerilog verification environments, constrained-random testing, and waveform and log debugging
+* ⚙️ **Embedded Systems** - C/C++, Arduino, and hardware-software integration
+* 💻 **Software Development** - OOP, clean architecture and modular design, concurrent programming, unit testing, and building end-to-end systems
+* 🧠 **Analytical Thinking** - deep thinking, attention to detail, rapid learning, and self-directed study
+* 🎓 KamaTech–Google Design Verification Bootcamp | Software Engineering Diploma (MAHAT)
+* 📫 tmr10210@gmail.com
