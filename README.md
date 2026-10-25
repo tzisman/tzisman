@@ -7,7 +7,7 @@ I enjoy thinking deeply, noticing the small details, picking things up quickly, 
 
 * 🔬 **Hardware Verification** - UVM and SystemVerilog verification environments, constrained-random testing, and waveform and log debugging
 * ⚙️ **Embedded Systems** - C/C++, Arduino, and hardware-software integration
-* 💻 **Software Development** - OOP, clean architecture and modular design, concurrent programming, unit testing, and building end-to-end systems
+* 💻 **Software Development** - OOP, clean architecture and modular design, unit testing, and building end-to-end systems
 * 🧠 **Analytical Thinking** - deep thinking, attention to detail, rapid learning, and self-directed study
 * 🎓 KamaTech–Google Design Verification Bootcamp | Software Engineering Diploma (MAHAT)
 * 📫 tmr10210@gmail.com
